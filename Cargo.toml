@@ -2,4 +2,5 @@
 members = [
     "guessing_game",
     "variables",
+    "ownership"
 ]

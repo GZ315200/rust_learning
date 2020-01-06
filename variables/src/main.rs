@@ -148,6 +148,15 @@ fn main() {
         print!("{}  ", fibonacci(i));
         i = i + 1;
     }
+
+    let condition = true;
+    let number = if condition {
+        5
+    } else {
+        6
+    };
+    println!("");
+    println!("number is: {} ", number)
 }
 
 // 函数
